@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/CadetQuest.umap",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Blueprints/BP_Comm.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Input/IMC_Default.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Blueprints/WBP_Comms.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Blueprints/WBP_ChatRow.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Blueprints/WBP_Test.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/IA_Interact.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Materials/M_Terminal_Normal.uasset",
+				"C:/Users/User/OneDrive/Desktop/4th semester - Masters Projects/FinalProject/Final_NikolettNagy/Content/Materials/M_Terminal_highlight.uasset"
+			]
+		}
+	]
+}
